@@ -3,5 +3,5 @@ Build/
 DerivedDataCache/
 Intermediate/
 Saved/*
-!/Saved/Config/
+!/Saved/Config/WindowsEditor/
 Windows/
