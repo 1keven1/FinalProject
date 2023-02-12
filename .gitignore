@@ -5,3 +5,6 @@ Intermediate/
 Saved/*
 !/Saved/Config/WindowsEditor/
 Windows/
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Content/FinalProject/Maps/TestMap.umap
+Saved/Config/WindowsEditor/Editor.ini
