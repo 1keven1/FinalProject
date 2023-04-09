@@ -1,0 +1,1 @@
+Content/outsideArts/**/*.umap filter=lfs diff=lfs merge=lfs -text
